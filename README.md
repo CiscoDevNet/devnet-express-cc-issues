@@ -1,4 +1,4 @@
-# devnet-express-cloud-collab-issues
+# devnet-express-cc-issues  (Cloud Collaboration Issues)
 
 **IMPORTANT**:  This is a public repository. _Do not include proprietary or confidential information in this repository._
 
