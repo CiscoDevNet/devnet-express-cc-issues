@@ -6,7 +6,7 @@ Use this repo to submit defects, bugs, enhancement requests, and other issues re
 
 URL of the tracks related to this repo:
 
-- https://learninglabs.cisco.com/tracks/devnet-express-cloud-collab-it-pro
+- https://developer.cisco.com/learning/tracks/devnet-express-cloud-collab-it-pro
 
 **To submit an issue:**
 
